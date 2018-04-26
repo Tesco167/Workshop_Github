@@ -1,3 +1,2 @@
 a is text file
 dev2
-dev1
